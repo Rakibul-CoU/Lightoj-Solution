@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    long long n,caseno = 0,cases,fn[10005], i;
+    long long int n,caseno = 0,cases,fn[10005], i;
     scanf("%lld",&cases);
     while( cases-- )
     {
